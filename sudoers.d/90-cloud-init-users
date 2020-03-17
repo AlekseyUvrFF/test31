@@ -1,0 +1,4 @@
+# Created by cloud-init v. 19.3-41-gc4735dd3-0ubuntu1~18.04.1 on Wed, 11 Mar 2020 16:42:27 +0000
+
+# User rules for alex
+alex ALL=(ALL) NOPASSWD:ALL
